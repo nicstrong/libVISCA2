@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libvisca2", "libvisca2\libvisca2.vcxproj", "{2FD04FAB-F2F1-473E-8D4D-DE5B17D5FFE8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "visca_cli", "visca_cli\visca_cli.vcxproj", "{5C744A7C-2703-4A71-827D-5D367A72C473}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{49E1B109-E726-4FBC-BFBB-9C026C7817FC}"
+	ProjectSection(SolutionItems) = preProject
+		..\README = ..\README
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FD04FAB-F2F1-473E-8D4D-DE5B17D5FFE8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2FD04FAB-F2F1-473E-8D4D-DE5B17D5FFE8}.Debug|Win32.Build.0 = Debug|Win32
+		{2FD04FAB-F2F1-473E-8D4D-DE5B17D5FFE8}.Release|Win32.ActiveCfg = Release|Win32
+		{2FD04FAB-F2F1-473E-8D4D-DE5B17D5FFE8}.Release|Win32.Build.0 = Release|Win32
+		{5C744A7C-2703-4A71-827D-5D367A72C473}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5C744A7C-2703-4A71-827D-5D367A72C473}.Debug|Win32.Build.0 = Debug|Win32
+		{5C744A7C-2703-4A71-827D-5D367A72C473}.Release|Win32.ActiveCfg = Release|Win32
+		{5C744A7C-2703-4A71-827D-5D367A72C473}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

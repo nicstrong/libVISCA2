@@ -1,4 +1,8 @@
 
+Fork of libvisca2 that adds support for Visual Studio build and bindings to C# with a test app.
+
+-- 
+
 Improvements in 2.0.0: 
   
   - CMake-based builds by François Kooman
